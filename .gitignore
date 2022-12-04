@@ -1,7 +1,9 @@
 # Default ignored files
-/grpc-client/shelf/
-/grpc-client/workspace.xml
-/grpc-client/target
-/grpc-client/shelf/
-/grpc-client/workspace.xml
-/grpc-client/target
+grpc-client/shelf/
+grpc-client/workspace.xml
+grpc-server/shelf/
+grpc-server/workspace.xml
+grpc-server/dependency-reduced-pom.xml
+grpc-client/dependency-reduced-pom.xml
+grpc-client/target
+grpc-server/target/
